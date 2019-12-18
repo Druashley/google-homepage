@@ -1,0 +1,1 @@
+This is going to be a first take on recreating a website based on the odin project
