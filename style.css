@@ -8,26 +8,6 @@ body {
 
 /* This is a comment, by the way */
 
-p {
-
-}
-
-h1 {
-
-}
-
-h2 {
-
-}
-
-h3 {
-
-}
-
-img {
-
-}
-
 .footer{
     position: fixed;
     bottom: 0;
@@ -60,18 +40,6 @@ img {
 }
 
 
-a {
-
-}
-
-strong {
-
-}
-
-li {
-
-}
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -95,7 +63,4 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   text-decoration: underline;
-}
-table {
-
 }
